@@ -6,8 +6,12 @@
 
 
 <script type=<"text/javascript">
-	document.write("I decree that the browser shall ignore this line of code");
+<!--
+	document.write("I decree that the browser shall ignore this line of code
+	Also, variables are case sensitive, remember.");
   
+//-->
+
  var x = 1000;
  
  console.log(x*5); // Equals 5000
