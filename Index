@@ -4,8 +4,16 @@
 </head>
 <body>
 
-<script.type("This is an interesting line of text.");
 
+<script type=<"text/javascript">
+	document.write("I decree that the browser shall ignore this line of code");
+  
+ var x = 1000;
+ 
+ console.log(x*5); // Equals 5000
+ 
+ 
+</script>
 
 
 </body>
