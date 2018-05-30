@@ -12,9 +12,9 @@
   
 //-->
 
- var x = 1000;
+ var _x_ = 1000;
  
- console.log(x*5); // Equals 5000
+ console.log(_x_*5); // Equals 5000
  
  
 </script>
